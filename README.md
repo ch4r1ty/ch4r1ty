@@ -1,6 +1,3 @@
-# 🎮 更新道具的训练师卡片
-
-```markdown
 <div align="center">
 
 # 🎯 Trainer Card - ch4r1ty
