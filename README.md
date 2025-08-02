@@ -40,8 +40,6 @@
 
 ## 🎒 Pokéball Collection (Tech Stack)
 
-## 🎒 Pokéball Collection (Tech Stack)
-
 ### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="24"> **Master Balls** (Expert Level)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
