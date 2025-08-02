@@ -1,3 +1,6 @@
+# 🎮 更新道具的训练师卡片
+
+```markdown
 <div align="center">
 
 # 🎯 Trainer Card - ch4r1ty
@@ -32,7 +35,7 @@
 </tr>
 </table>
 
-**🎒 Held Items:** 💻 MacBook • ☕ Coffee Bean • 🎧 AirPods  
+**🎒 Held Items:** 🔗 Focus Band • 🔍 Choice Specs • ⚡ Booster Energy  
 **⚡ Special Ability:** Debug Master | **🏆 Badge:** Senior Developer  
 **🌟 Signature Move:** Full-Stack Slam
 
