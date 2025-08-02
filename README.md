@@ -6,7 +6,7 @@
 <tr>
 <td>
 
-**🎮 ID No.** `001337`  
+**🎮 ID No.** `000143`  
 **👤 Name:** `ch4r1ty`
 
 <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png" width="120">
