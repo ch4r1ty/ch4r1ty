@@ -32,7 +32,7 @@
 </tr>
 </table>
 
-**🎒 Held Items:** 💻 MacBook Pro • ☕ Coffee Bean • 🎧 AirPods  
+**🎒 Held Items:** 💻 MacBook • ☕ Coffee Bean • 🎧 AirPods  
 **⚡ Special Ability:** Debug Master | **🏆 Badge:** Senior Developer  
 **🌟 Signature Move:** Full-Stack Slam
 
