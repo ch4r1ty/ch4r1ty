@@ -40,36 +40,71 @@
 
 ## 🎒 Pokéball Collection (Tech Stack)
 
+<table border="0">
+<tr>
+<td width="40" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="30">
+</td>
+<td>
+<strong>Master Balls (Expert Level)</strong>
+</td>
+</tr>
+</table>
 
-## 🎒 Pokéball Collection (Tech Stack)
-
-### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/master-ball.png" width="32" height="32"> **Master Balls** (Expert Level)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="32" height="32"> **Ultra Balls** (Advanced Level)
+<table border="0">
+<tr>
+<td width="40" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/ultra-ball.png" width="30">
+</td>
+<td>
+<strong>Ultra Balls (Advanced Level)</strong>
+</td>
+</tr>
+</table>
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="32" height="32"> **Great Balls** (Intermediate Level)
+<table border="0">
+<tr>
+<td width="40" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/great-ball.png" width="30">
+</td>
+<td>
+<strong>Great Balls (Intermediate Level)</strong>
+</td>
+</tr>
+</table>
+
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="32" height="32"> **Poké Balls** (Learning/Tools)
+<table border="0">
+<tr>
+<td width="40" align="center">
+<img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/poke-ball.png" width="30">
+</td>
+<td>
+<strong>Poké Balls (Learning/Tools)</strong>
+</td>
+</tr>
+</table>
+
 ![Objective-C](https://img.shields.io/badge/-Objective--C-1572B6?style=for-the-badge&logo=apple&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Netty](https://img.shields.io/badge/-Netty-009639?style=for-the-badge&logo=netty&logoColor=white)
-
-
 
 </div>
