@@ -32,7 +32,7 @@
 </tr>
 </table>
 
-**🎒 Held Items:** 🔗 Focus Band • 🔍 Choice Specs • ⚡ Booster Energy  
+**🎒 Held Items:** <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/focus-band.png" width="20"> Focus Band • <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/choice-specs.png" width="20"> Choice Specs • <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/items/booster-energy.png" width="20"> Booster Energy  
 **⚡ Special Ability:** Debug Master | **🏆 Badge:** Senior Developer  
 **🌟 Signature Move:** Full-Stack Slam
 
